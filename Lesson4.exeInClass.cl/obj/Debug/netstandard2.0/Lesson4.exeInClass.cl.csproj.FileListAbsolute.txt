@@ -1,0 +1,9 @@
+C:\Users\אסתי הבלין\source\repos\Lesson4.exeInClass\Lesson4.exeInClass.cl\bin\Debug\netstandard2.0\Lesson4.exeInClass.cl.deps.json
+C:\Users\אסתי הבלין\source\repos\Lesson4.exeInClass\Lesson4.exeInClass.cl\bin\Debug\netstandard2.0\Lesson4.exeInClass.cl.dll
+C:\Users\אסתי הבלין\source\repos\Lesson4.exeInClass\Lesson4.exeInClass.cl\bin\Debug\netstandard2.0\Lesson4.exeInClass.cl.pdb
+C:\Users\אסתי הבלין\source\repos\Lesson4.exeInClass\Lesson4.exeInClass.cl\obj\Debug\netstandard2.0\Lesson4.exeInClass.cl.csprojAssemblyReference.cache
+C:\Users\אסתי הבלין\source\repos\Lesson4.exeInClass\Lesson4.exeInClass.cl\obj\Debug\netstandard2.0\Lesson4.exeInClass.cl.csproj.CoreCompileInputs.cache
+C:\Users\אסתי הבלין\source\repos\Lesson4.exeInClass\Lesson4.exeInClass.cl\obj\Debug\netstandard2.0\Lesson4.exeInClass.cl.AssemblyInfoInputs.cache
+C:\Users\אסתי הבלין\source\repos\Lesson4.exeInClass\Lesson4.exeInClass.cl\obj\Debug\netstandard2.0\Lesson4.exeInClass.cl.AssemblyInfo.cs
+C:\Users\אסתי הבלין\source\repos\Lesson4.exeInClass\Lesson4.exeInClass.cl\obj\Debug\netstandard2.0\Lesson4.exeInClass.cl.dll
+C:\Users\אסתי הבלין\source\repos\Lesson4.exeInClass\Lesson4.exeInClass.cl\obj\Debug\netstandard2.0\Lesson4.exeInClass.cl.pdb
